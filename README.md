@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Saksham
-- 👀 I’m interested in Coding and Development...
-- 🌱 I’m currently learning about Web 3.0 and Dapps
-- 💞️ I’m looking to collaborate on MERN Stack development based projects
+- 👀 I’m interested in Machine Learming
+- 🌱 I’m currently exploring deep learning and neural networks
+- 💞️ I’m looking to collaborate on Machine Learning and Web Development based projects
 - 📫 How to reach me? Contact me at sakshamchaudhary14@gmail.com
